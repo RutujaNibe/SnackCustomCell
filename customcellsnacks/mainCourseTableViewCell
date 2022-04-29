@@ -1,0 +1,17 @@
+//
+//  mainCourseTableViewCell.swift
+//  customcellsnacks
+//
+//  Created by Mac on 09/04/22.
+//
+
+import UIKit
+
+class mainCourseTableViewCell: UITableViewCell {
+    
+ 
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+}
